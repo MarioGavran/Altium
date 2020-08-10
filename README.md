@@ -3,12 +3,11 @@
 ## LCD DevBoard demo
 * this is only a concept demo. It has never been manufactured and therefore never tested. It was made only for learning purposes.
 ![](LCD_DevBoard_Demo/images/LCDdevBoardGif.gif)
-<img src="LCD_DevBoard_Demo/images/LCDdevBoard.png">
+![](LCD_DevBoard_Demo/images/LCDdevBoard.png)
 * These photos show one manufactured board. 
 * This is an adapter board for STM Nucleo-144 boards, but is only tested for stm32f413zht6.
-* It is used for adapting the STM Zio connectors (CN7,8,9 & 10) to FPC/FFC 50pin connector used for i80-like communication with an LCD driver controller (NT35510) used on a LCD display module (ER-TFT040_1)
+* It is used for adapting the STM Zio connectors (CN7,8,9 & 10) to FPC/FFC 50pin connector used for i80-like communication with an LCD driver controller (NT35510) used on a LCD display module (ER-TFT040_1).
 
-###
 Used pins:
 
 PC6  - RST
