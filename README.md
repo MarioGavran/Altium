@@ -11,30 +11,50 @@
 Used pins:
 
 PC6  - RST
+
            
 PD11 - A[16]	- RS
+
 PD4  - NOE 	- RD
+
 PD5  - NWE 	- WR
+
 PD7  - NE1 	- CS
+
 PD14 - D0
+
 PD15 - D1
+
            
 PC11 - D2
+
 PC12 - D3
 
+
 PE7  - D4
+
 PE8  - D5
+
 PE9  - D6
+
 PE10 - D7
+
 PE11 - D8
+
 PE12 - D9
+
 PE13 - D10
+
 PE14 - D11
+
 PE15 - D12
+
 
 PB12 - D13
 
+
 PD9  - D14
+
 PD10 - D15
 
 <img src="LCD_DevBoard_Demo/images/20200810_013005.jpg" width="300"> <img src="LCD_DevBoard_Demo/images/20200810_013012.jpg" width="300"> 
