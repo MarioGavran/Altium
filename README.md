@@ -19,4 +19,4 @@
 ## CO2 meter board
 * this is only a concept demo. It has never been manufactured and therefore never tested. It was made only for learning purposes. 
 ![](CO2_Meter_Demo/images/co2meterGif.gif)
-<img src="LCD_DevBoard_Demo/images/co2meter.png">
+![](LCD_DevBoard_Demo/images/co2meter.png)
